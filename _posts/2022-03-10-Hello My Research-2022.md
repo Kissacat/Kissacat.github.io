@@ -4,7 +4,6 @@ title:      Hello, My Research 				# 标题
 subtitle:   This is used to counter my research #副标题
 date:       2022 				# 时间
 author:     Tinatian Liu 						# 作者
-header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - paper
